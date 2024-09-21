@@ -1,0 +1,4 @@
+virtualenv1
+__pycache__
+document
+bag_of_word.py
